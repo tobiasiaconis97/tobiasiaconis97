@@ -19,6 +19,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 
 
 <h2 class="heading-element" dir="auto">My Skills Include</h2>
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 <div>
