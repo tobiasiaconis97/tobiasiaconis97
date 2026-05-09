@@ -8,7 +8,9 @@
 
  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I am a Full Stack .NET Developer with experience building web applications and management systems.
+I mainly work with C#, ASP.NET, .NET Core, SQL Server, and JavaScript, participating in both frontend and backend development, database design, and business logic implementation.
+I enjoy building scalable and efficient software while continuously learning new technologies and development best practices.
 * **I am interested in Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
   - Java
