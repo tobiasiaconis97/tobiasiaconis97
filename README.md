@@ -5,8 +5,7 @@
 
 <img align="right" width=300px src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+##<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Android development, and digital marketing**
@@ -18,7 +17,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
 
-<h2 class="heading-element" dir="auto" style="margin-bottom: 10px;">
+<h2 class="heading-element" dir="auto" style="margin-bottom: 80px;">
   My Skills Include
 </h2>
 
