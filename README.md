@@ -5,7 +5,6 @@
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 # Hi there 👋, Bhargavi here. 
@@ -17,7 +16,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Android development, and digital marketing**
