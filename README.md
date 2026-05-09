@@ -19,6 +19,8 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 
 __Check out my GitHub repository:__
 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
 <div>
   <p>
     <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
