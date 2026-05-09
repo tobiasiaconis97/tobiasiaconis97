@@ -17,8 +17,8 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
 
-__Check out my GitHub repository:__
 
+<h2 class="heading-element" dir="auto">My Skills Include</h2>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 <div>
